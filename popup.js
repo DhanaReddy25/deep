@@ -263,7 +263,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             return 0;
                         };
 
-                        // Force end of document for Ace editor
+                        // Force end of document for the Ace editor
                         const forceEndOfDocument = (editor) => {
                             if (!editor) return false;
                             
